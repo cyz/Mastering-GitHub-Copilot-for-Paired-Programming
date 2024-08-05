@@ -116,8 +116,8 @@ O resultado deve ser uma explicação muito boa sobre o FastAPI, como executar a
 
 A Microsoft e quaisquer colaboradores concedem a você uma licença para a documentação da Microsoft e outros conteúdos
 neste repositório sob a Licença Pública Internacional Creative Commons Attribution 4.0,
-veja o arquivo LICENSE, e concedem a você uma licença para qualquer código no repositório sob a Licença MIT, veja o
-arquivo LICENSE-CODE.
+veja o arquivo [LICENSE](LICENSE), e concedem a você uma licença para qualquer código no repositório sob a [MIT License](https://opensource.org/licenses/MIT), veja o
+arquivo [LICENSE-CODE](LICENSE-CODE).
 
 Microsoft, Windows, Microsoft Azure e/ou outros produtos e serviços Microsoft referenciados na documentação
 podem ser marcas comerciais ou marcas registradas da Microsoft nos Estados Unidos e/ou em outros países.
